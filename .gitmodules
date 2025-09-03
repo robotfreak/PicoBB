@@ -5,3 +5,6 @@
 [submodule "littlefs"]
 	path = littlefs
 	url = https://github.com/littlefs-project/littlefs.git
+[submodule "PicoDVI"]
+	path = PicoDVI
+	url = https://github.com/Wren6991/PicoDVI.git
